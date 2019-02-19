@@ -83,7 +83,8 @@ This results in the following files in the directory `locale`
 ## Distribution
 
 The files in `locale` can be packaged and distributed via e.g. PyPI or
-eventually become part of the Python distribution.
+eventually become part of the Python distribution. Note that this
+localization can also be used for other programming languages.
 
 
 ## Copyright
